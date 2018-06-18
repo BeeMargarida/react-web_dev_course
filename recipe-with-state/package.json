@@ -1,5 +1,5 @@
 {
-  "name": "recipe-props-started",
+  "name": "recipe-with-state",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
